@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Unboarding</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>744f2a9b-395b-4b23-8a53-7c2a5df25148</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7f4ddb7a-1bbc-4c0c-80ee-cc587a2c4696</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.device</defaultValue>
+      <description></description>
+      <id>7f4ddb7a-1bbc-4c0c-80ee-cc587a2c4696</id>
+      <masked>false</masked>
+      <name>device</name>
+   </variable>
+</TestCaseEntity>
